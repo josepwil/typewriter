@@ -1,7 +1,7 @@
 const sentence = "hello there from lighthouse labs";
 
 // set delay as a variable 
-let x = 1000;
+let x = 0;
 
 for (const char of sentence) {
   setTimeout(() => {
